@@ -42,6 +42,10 @@ Running log of completed work. Append only.
 - Demo is live at https://lopezdemo.bytesbyblinken.com/
 - Verified HTTPS, logo/hero assets, branding, 214-735-5296, Facebook link, and quote form on the live site
 
+## 2026-09-14 — Messenger link preview
+
+- Added Open Graph tags so Facebook/Messenger previews use the logo and business name
+
 ## 2026-09-14 — Outreach sent
 
 - First Facebook message sent using the softer demo-ask copy. Waiting on a reply.
