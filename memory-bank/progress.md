@@ -36,3 +36,8 @@ Running log of completed work. Append only.
 ## 2026-09-14 — Christmas lighting parked
 
 - Client also does Christmas lighting in the offseason. Left out of the demo on purpose; add only if they move forward.
+
+## 2026-09-14 — Live demo hosted
+
+- Demo is live at https://lopezdemo.bytesbyblinken.com/
+- Verified HTTPS, logo/hero assets, branding, 214-735-5296, Facebook link, and quote form on the live site

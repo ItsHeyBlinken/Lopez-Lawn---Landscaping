@@ -1,6 +1,6 @@
 # Active Context
 
-Sales-ready demo (Option A) is ready to show.
+Sales-ready demo is live at https://lopezdemo.bytesbyblinken.com/
 
 ## Current files
 
