@@ -17,6 +17,7 @@ Sales-ready demo is live at https://lopezdemo.bytesbyblinken.com/
 - Use their recent bilingual Facebook thank-you post as the customer appreciation section
 - Facebook page: https://www.facebook.com/Lavishlawns903
 - They also offer Christmas lighting in the offseason. Do **not** add it to the demo unless they decide to move forward.
+- Outreach: first Facebook message asks if they want the demo; send the live link only after they say yes.
 
 ## Next
 
