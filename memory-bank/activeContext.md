@@ -23,3 +23,5 @@ Sales-ready demo is live at https://lopezdemo.bytesbyblinken.com/
 
 - Add more job photos if they become available
 - If the client moves forward: add Christmas lighting as a seasonal service
+
+Outreach to Lopez Lawns & Landscaping was sent on 2026-09-14. Waiting on a reply.
